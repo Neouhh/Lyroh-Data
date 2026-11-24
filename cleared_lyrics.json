@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "description": "Lyroh Central Cleared / Evicted Lyrics Registry",
+  "updated_at": "2026-11-24",
+  "cleared_tracks": [
+    {
+      "artist": "Sample Artist",
+      "title": "Sample Song",
+      "reason": "Wrong lyrics entirely"
+    }
+  ]
+}
