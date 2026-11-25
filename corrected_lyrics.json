@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "description": "Lyroh Central Corrected Lyrics Registry",
+  "updated_at": "2026-11-25",
+  "corrected_tracks": [
+    {
+      "artist": "John Lennon",
+      "title": "Imagine - Remastered 2010",
+      "offset_sec": 0.0,
+      "lrclib_id": 29359253,
+      "lrc_file": "",
+      "synced_lyrics": "",
+      "updated_at": "2026-11-25"
+    },
+    {
+      "artist": "Peter Cat Recording Co. (PCRC)",
+      "title": "Jaanam",
+      "offset_sec": 0.0,
+      "lrclib_id": 11488467,
+      "lrc_file": "",
+      "synced_lyrics": "",
+      "updated_at": "2026-11-25"
+    },
+    {
+      "artist": "Krystyn",
+      "title": "Red Wine",
+      "offset_sec": 0.0,
+      "lrclib_id": null,
+      "lrc_file": "lrc/krystyn_red_wine.lrc",
+      "synced_lyrics": "",
+      "updated_at": "2026-11-25"
+    }
+  ]
+}
