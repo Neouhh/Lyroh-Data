@@ -1,17 +1,12 @@
 {
   "version": 1,
   "description": "Lyroh Central Cleared / Evicted Lyrics Registry",
-  "updated_at": "2026-11-25",
+  "updated_at": "2026-11-24",
   "cleared_tracks": [
     {
-      "artist": "Flawed Mangoes",
-      "title": "Dramamine",
-      "reason": "Instrumental track (no lyrics)"
-    },
-    {
-      "artist": "The Siege",
-      "title": "Really Brown",
-      "reason": "No synced lyrics available (prevents wrong-song match)"
+      "artist": "Sample Artist",
+      "title": "Sample Song",
+      "reason": "Wrong lyrics entirely"
     }
   ]
 }
